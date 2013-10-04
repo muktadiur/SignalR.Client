@@ -1,0 +1,9 @@
+G:\IMS.SignalR.Client\SignalR.Client\bin\Debug\SignalR.Client.dll
+G:\IMS.SignalR.Client\SignalR.Client\bin\Debug\SignalR.Client.pdb
+G:\IMS.SignalR.Client\SignalR.Client\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+G:\IMS.SignalR.Client\SignalR.Client\bin\Debug\Newtonsoft.Json.dll
+G:\IMS.SignalR.Client\SignalR.Client\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+G:\IMS.SignalR.Client\SignalR.Client\bin\Debug\Newtonsoft.Json.xml
+G:\IMS.SignalR.Client\SignalR.Client\obj\Debug\SignalR.Client.csprojResolveAssemblyReference.cache
+G:\IMS.SignalR.Client\SignalR.Client\obj\Debug\SignalR.Client.dll
+G:\IMS.SignalR.Client\SignalR.Client\obj\Debug\SignalR.Client.pdb
