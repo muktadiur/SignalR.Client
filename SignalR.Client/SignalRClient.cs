@@ -40,7 +40,7 @@ namespace SignalR.Client
             });
         }
 
-        public void Join(string name, Action<string,string, string, string, string, string, string> callBack)
+        public void Join(string name, Action<string,string> callBack)
         {
             //Remove(name);
             hub.On("Show", callBack);

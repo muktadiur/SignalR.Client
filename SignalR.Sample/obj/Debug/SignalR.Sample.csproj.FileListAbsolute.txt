@@ -10,3 +10,15 @@ G:\IMS.SignalR.Client\SignalR.Sample\bin\Debug\Newtonsoft.Json.xml
 G:\IMS.SignalR.Client\SignalR.Sample\obj\Debug\SignalR.Sample.csprojResolveAssemblyReference.cache
 G:\IMS.SignalR.Client\SignalR.Sample\obj\Debug\SignalR.Sample.exe
 G:\IMS.SignalR.Client\SignalR.Sample\obj\Debug\SignalR.Sample.pdb
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\SignalR.Sample.exe.config
+F:\Github Projects\SignalR.Client\SignalR.Sample\obj\Debug\SignalR.Sample.exe
+F:\Github Projects\SignalR.Client\SignalR.Sample\obj\Debug\SignalR.Sample.pdb
+F:\Github Projects\SignalR.Client\SignalR.Sample\obj\Debug\SignalR.Sample.csprojResolveAssemblyReference.cache
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\SignalR.Sample.exe
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\SignalR.Sample.pdb
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\SignalR.Client.dll
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\Newtonsoft.Json.dll
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\SignalR.Client.pdb
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\Github Projects\SignalR.Client\SignalR.Sample\bin\Debug\Newtonsoft.Json.xml
